@@ -11,5 +11,17 @@ Video showing how to seed the database and start the server in the command line:
 
 https://user-images.githubusercontent.com/79293495/168690124-59dbdd57-a7f7-4c23-8afd-db416c6c42f4.mov
 
-Video showing the functional routes on viewing and manipulating data via Insomnia 
+## Video showing the functional routes on viewing and manipulating data via Insomnia 
+
+Category Routes: 
+
+https://user-images.githubusercontent.com/79293495/168692944-8fab3647-6569-4f45-8b7a-aa1b6a33c8f7.mov
+
+Product Routes: 
+
+https://user-images.githubusercontent.com/79293495/168692988-bd83d794-eb9f-4e74-a264-b7efce647ae0.mov
+
+Tag Routes: 
+
+https://user-images.githubusercontent.com/79293495/168693017-4574ba07-71a8-460f-8ae6-edda8cb6cb3a.mov
 
